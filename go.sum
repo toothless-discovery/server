@@ -1,0 +1,9 @@
+github.com/gorilla/mux v1.7.0 h1:tOSd0UKHQd6urX6ApfOn4XdBMY6Sh1MfxV3kmaazO+U=
+github.com/gorilla/mux v1.7.0/go.mod h1:1lud6UwP+6orDFRuTfBEV8e9/aOM/c4fVVCaMa2zaAs=
+github.com/gorilla/rpc v1.1.0 h1:marKfvVP0Gpd/jHlVBKCQ8RAoUPdX7K1Nuh6l1BNh7A=
+github.com/gorilla/rpc v1.1.0/go.mod h1:V4h9r+4sF5HnzqbwIez0fKSpANP0zlYd3qR7p36jkTQ=
+github.com/toothless-discovery/common v0.0.0 h1:zi1fMmlBh9YlWQPJ6vH72jkxCGAgip/bSOXqiabpOcU=
+github.com/toothless-discovery/common v0.0.1-0.20190302101248-e5baa38bb9a7 h1:nQlK2jAS9Ce6jH5frY1VgyuaZdt0CP3BLdew4WkN13g=
+github.com/toothless-discovery/common v0.0.1-0.20190302101248-e5baa38bb9a7/go.mod h1:iYqwu652D9lN+qGV4nee6csyVckW0en9pOUllu1L+aM=
+golang.org/x/arch v0.0.0-20190226203302-36aee92af9e8 h1:G3kY3WDPiChidkYzLqbniw7jg23paUtzceZorG6YAJw=
+golang.org/x/arch v0.0.0-20190226203302-36aee92af9e8/go.mod h1:cYlCBUl1MsqxdiKgmc4uh7TxZfWSFLOGSRR090WDxt8=
